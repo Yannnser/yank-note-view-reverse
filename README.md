@@ -1,1 +1,4 @@
-# yank-note-view-reverse
+# 预览翻转
+
+## 使用
+安装并启用后自动生效。

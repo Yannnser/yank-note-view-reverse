@@ -1,0 +1,20 @@
+.content{
+  flex-direction: row-reverse;
+}
+
+.sash-left{
+  left: auto !important;
+  right: 0 !important;
+}
+
+.markdown-view .action-bar,
+.markdown-view .outline,
+.markdown-view .scroll-to-top{
+  right: auto !important;
+}
+
+.markdown-view .outline {
+  margin-left: -1.5em;
+  margin-top: -2em;
+  z-index: 1001;
+}
