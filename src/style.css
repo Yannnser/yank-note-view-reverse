@@ -7,14 +7,10 @@
   right: 0 !important;
 }
 
-.markdown-view .action-bar,
-.markdown-view .outline,
-.markdown-view .scroll-to-top{
-  right: auto !important;
+div.content > div.preview {
+  transform: translateX(0);
 }
 
-.markdown-view .outline {
-  margin-left: -1.5em;
-  margin-top: -2em;
-  z-index: 1001;
+.markdown-view .scroll-to-top {
+  bottom: 40px !important;
 }
