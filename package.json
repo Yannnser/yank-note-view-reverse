@@ -1,12 +1,12 @@
 {
   "name": "yank-note-extension-view-reverse-yanser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": " view-reverse｜Yanser",
   "description": "view-reverse extension from Yanser",
   "displayName_ZH-CN": "预览翻转｜烟舍",
   "description_ZH-CN": "翻转预览和编辑",
   "author": "Yanser",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "keywords": [],
   "homepage": "https://github.com/Yannnser/yank-note-view-reverse.git",
   "repository": {
