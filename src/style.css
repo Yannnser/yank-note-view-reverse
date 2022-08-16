@@ -14,3 +14,7 @@ div.content > div.preview {
 .markdown-view .scroll-to-top {
   bottom: 40px !important;
 }
+
+.markdown-view .markdown-body .custom-container.group .group-item-radio {
+  display: none;
+}
