@@ -388,10 +388,10 @@
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.37.tgz#8e6adc3f2759af52f0e85863dfb0b711ecc5c702"
   integrity sha512-4rSJemR2NQIo9Klm1vabqWjD8rs/ZaJSzMxkMNeJS6lHiUjjUeYFbooN19NgFjztubEKh3WlZUeOLVdbbUWHsw==
 
-"@yank-note/runtime-api@^3.33.0":
-  version "3.33.0"
-  resolved "https://registry.npmmirror.com/@yank-note/runtime-api/-/runtime-api-3.33.0.tgz#d3c55e327a04f7c0250153c7a72a31ba602daf71"
-  integrity sha512-kmAjmJGAmBrdZukwWB69A5ihhrUND/mtnlu5mJOPKhBTzxeWziFCzdPJwrio34R85wYrCNUEfvm9tGwvs4+c/Q==
+"@yank-note/runtime-api@^3.41.0":
+  version "3.41.0"
+  resolved "https://registry.npmmirror.com/@yank-note/runtime-api/-/runtime-api-3.41.0.tgz#28ff99f9226f685a1521fd4ee89d0e318c03b212"
+  integrity sha512-6L/mzojrzWvXKJxKQIY6PTqxgK7er4WSDlQwNgzMwunWfY3PHxYT4mj0kViq/zFLosAISRvIi9TJJ6kuyDGbgA==
   dependencies:
     fs-extra "^10.1.0"
 
