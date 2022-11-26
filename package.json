@@ -1,10 +1,10 @@
 {
   "name": "yank-note-extension-view-reverse-yanser",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "displayName": " view-reverse｜Yanser",
   "description": "view-reverse extension from Yanser",
-  "displayName_ZH-CN": "预览翻转｜烟舍",
-  "description_ZH-CN": "翻转预览和编辑",
+  "displayName_ZH-CN": "区域翻转｜烟舍",
+  "description_ZH-CN": "翻转预览和编辑器｜翻转侧边栏和内容区",
   "author": "Yanser",
   "license": "AGPL-3.0",
   "keywords": [],
@@ -21,7 +21,7 @@
   "icon": "./icon.png",
   "engines": {
     "node": ">=14.6.0",
-    "yank-note": "^3.41.0"
+    "yank-note": "^3.45.0"
   },
   "files": [
     "*.md",
